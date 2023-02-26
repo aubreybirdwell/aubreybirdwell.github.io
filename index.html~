@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2023-02-26 Sun 02:17 -->
+<!-- 2023-02-26 Sun 02:09 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Aubrey Birdwell</title>
@@ -219,58 +219,14 @@
 <body>
 <div id="content">
 <h1 class="title">Aubrey Birdwell</h1>
-<div id="table-of-contents">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#org0137d35">Intro:</a></li>
-</ul>
-</div>
-</div>
-
-<div id="outline-container-org0137d35" class="outline-2">
-<h2 id="org0137d35">Intro:</h2>
-<div class="outline-text-2" id="text-org0137d35">
-<img src="aubreybirdwell_whiteroom.jpg" alt="aubrey birdwell, computer scientist, researcher, artist, and fabricator in Seattle, WA">$
-
 <p>
-<a href="https://aubreybirdwell.com">Aubrey Birdwell</a> is a computer science researcher, artist, and
-fabricator in the Seattle area. He will graduates from The Evergreen
-State college with a Bachelor's of Arts and Sciences dual degree in
-May of 2023 with emphases in computer science and mathematics. His
-course work in computer science has centered around programming
-language theory, functional programming, and algorithms. His
-coursework in mathematics included a year of discrete math, a year
-of abstract algebra, and a year of graph theory.
+#+BEGIN<sub>EXPORT</sub> html  
+  &lt;img src="aubreybirdwell<sub>whiteroom.jpg</sub>" alt="aubrey birdwell, computer scientist, researcher, artist, and fabricator in Seattle, WA"&gt;$
 </p>
-
-<p>
-During his bachelor's studies, he has been involved in multiple
-areas of research including cyber security and computer science
-education, where he designed custom visualization techniques for
-students log data, and used data science and machine learning
-methods for evaluating students data; and in software provability
-and verification where he has worked on developing semantic models
-of a <a href="https://www.youtube.com/watch?v=linRvpquOrg">network stack for the SEL4 kernel</a>. He has coauthored a
-forthcoming paper on using machine learning with cyber security
-educational data which is in peer review presently.
-</p>
-
-<p>
-Outside of his studies, he is actively engaged in his <a href="https://aubreybirdwell.com">artistic
-practice</a> where he is developing new work. Research interests include
-designing real-time programming languages and tools for the live
-performance of computers and cyber-physical systems; applying
-machine learning and data science for constructing creative
-narratives; the history and intersection of algorithms and social
-theory.
-</p>
-</div>
-</div>
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Aubrey Birdwell</p>
-<p class="date">Created: 2023-02-26 Sun 02:17</p>
+<p class="date">Created: 2023-02-26 Sun 02:09</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

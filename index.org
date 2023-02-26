@@ -9,9 +9,9 @@
 #+END_EXPORT
 
   [[https://aubreybirdwell.com][Aubrey Birdwell]] is a computer science researcher, artist, and
-  fabricator in the Seattle area. In May of 2023, he graduates from
-  The Evergreen State college with a Bachelor's of Arts and Sciences
-  dual degree -- emphases in computer science and mathematics. His
+  fabricator in the Seattle area. He will graduates from The Evergreen
+  State college with a Bachelor's of Arts and Sciences dual degree in
+  May of 2023 with emphases in computer science and mathematics. His
   course work in computer science has centered around programming
   language theory, functional programming, and algorithms. His
   coursework in mathematics included a year of discrete math, a year
@@ -23,9 +23,9 @@
   students log data, and used data science and machine learning
   methods for evaluating students data; and in software provability
   and verification where he has worked on developing semantic models
-  of a compact network stack for the SEL4 kernel. He has coauthored a
+  of a [[https://www.youtube.com/watch?v=linRvpquOrg][network stack for the SEL4 kernel]]. He has coauthored a
   forthcoming paper on using machine learning with cyber security
-  educational data.
+  educational data which is in peer review presently.
 
   Outside of his studies, he is actively engaged in his [[https://aubreybirdwell.com][artistic
   practice]] where he is developing new work. Research interests include
