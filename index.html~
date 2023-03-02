@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2023-03-02 Thu 15:24 -->
+<!-- 2023-03-02 Thu 15:22 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Aubrey Birdwell</title>
@@ -223,14 +223,14 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org4ad9820">Intro:</a></li>
+<li><a href="#orgc84f48c">Intro:</a></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org4ad9820" class="outline-2">
-<h2 id="org4ad9820">Intro:</h2>
-<div class="outline-text-2" id="text-org4ad9820">
+<div id="outline-container-orgc84f48c" class="outline-2">
+<h2 id="orgc84f48c">Intro:</h2>
+<div class="outline-text-2" id="text-orgc84f48c">
 <img src="aubreybirdwell_whiteroom.jpg" alt="aubrey birdwell, computer scientist, researcher, artist, and fabricator in Seattle, WA">
 
 <p>
@@ -240,10 +240,9 @@
 
 <p>
 <a href="https://aubreybirdwell.com">Aubrey Birdwell</a> is a computer science researcher, artist, and
-fabricator in the Seattle area. He is currently working on post
-bachelor's research projects at The Evergreen State college where he
-has completed the course work for a Bachelor's of Arts and Sciences
-dual degree with emphases in computer science and mathematics. His
+fabricator in the Seattle area. He will graduate from The Evergreen
+State college with a Bachelor's of Arts and Sciences dual degree in
+May of 2023 with emphases in computer science and mathematics. His
 course work in computer science has centered around programming
 language theory, functional programming, and algorithms. His
 coursework in mathematics included a year of discrete math, a year
@@ -277,7 +276,7 @@ theory.
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Aubrey Birdwell</p>
-<p class="date">Created: 2023-03-02 Thu 15:24</p>
+<p class="date">Created: 2023-03-02 Thu 15:22</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

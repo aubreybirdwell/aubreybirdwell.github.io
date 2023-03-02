@@ -12,9 +12,10 @@
 
 
   [[https://aubreybirdwell.com][Aubrey Birdwell]] is a computer science researcher, artist, and
-  fabricator in the Seattle area. He will graduate from The Evergreen
-  State college with a Bachelor's of Arts and Sciences dual degree in
-  May of 2023 with emphases in computer science and mathematics. His
+  fabricator in the Seattle area. He is currently working on post
+  bachelor's research projects at The Evergreen State college where he
+  has completed the course work for a Bachelor's of Arts and Sciences
+  dual degree with emphases in computer science and mathematics. His
   course work in computer science has centered around programming
   language theory, functional programming, and algorithms. His
   coursework in mathematics included a year of discrete math, a year
