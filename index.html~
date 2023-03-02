@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2023-03-02 Thu 15:57 -->
+<!-- 2023-03-02 Thu 15:49 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Aubrey Birdwell</title>
@@ -223,16 +223,18 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org962b76f">Intro:</a></li>
-<li><a href="#orgdaaacf0">CV</a></li>
+<li><a href="#orgaa6bd26">Intro:</a></li>
+<li><a href="#orga3f4f93">CV</a></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org962b76f" class="outline-2">
-<h2 id="org962b76f">Intro:</h2>
-<div class="outline-text-2" id="text-org962b76f">
+<div id="outline-container-orgaa6bd26" class="outline-2">
+<h2 id="orgaa6bd26">Intro:</h2>
+<div class="outline-text-2" id="text-orgaa6bd26">
 <img src="aubreybirdwell_whiteroom.jpg" alt="aubrey birdwell, computer scientist, researcher, artist, and fabricator in Seattle, WA">
+
+<hr />
 
 <p>
 <a href="https://aubreybirdwell.com">Aubrey Birdwell</a> is a computer science researcher, artist, and
@@ -267,12 +269,14 @@ machine learning and data science for constructing creative
 narratives; the history and intersection of algorithms and social
 theory.
 </p>
+
+<hr />
 </div>
 </div>
 
-<div id="outline-container-orgdaaacf0" class="outline-2">
-<h2 id="orgdaaacf0">CV</h2>
-<div class="outline-text-2" id="text-orgdaaacf0">
+<div id="outline-container-orga3f4f93" class="outline-2">
+<h2 id="orga3f4f93">CV</h2>
+<div class="outline-text-2" id="text-orga3f4f93">
 <p>
 <a href="https://aubreybirdwell.github.io/aubrey_birdwell_full_cv.html">View CV directly</a>
 </p>
@@ -281,7 +285,7 @@ theory.
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Aubrey Birdwell</p>
-<p class="date">Created: 2023-03-02 Thu 15:57</p>
+<p class="date">Created: 2023-03-02 Thu 15:49</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
