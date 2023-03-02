@@ -8,9 +8,8 @@
   <img src="aubreybirdwell_whiteroom.jpg" alt="aubrey birdwell, computer scientist, researcher, artist, and fabricator in Seattle, WA">
 #+END_EXPORT
 
-[[https://aubreybirdwell.github.io/aubrey_birdwell_full_cv.html][  See CV]]
-
-
+  [[https://aubreybirdwell.github.io/aubrey_birdwell_full_cv.html][View CV directly]]
+  
   [[https://aubreybirdwell.com][Aubrey Birdwell]] is a computer science researcher, artist, and
   fabricator in the Seattle area. He is currently working on post
   bachelor's research projects at The Evergreen State college where he
@@ -22,8 +21,7 @@
   of abstract algebra, and a year of graph theory.
 
   During his bachelor's studies, he has been involved in multiple
-  areas of research including cyber security and
-  computer science
+  areas of research including cyber security and computer science
   education, where he designed custom visualization techniques for
   students log data, and used data science and machine learning
   methods for evaluating students data; and in software provability
