@@ -6,21 +6,23 @@
     <image:image>
       <image:loc>https://aubreybirdwell.github.io/aubreybirdwell_whiteroom.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>https://aubreybirdwell.github.io/aubreybirdwell_grass.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://aubreybirdwell.github.io/aubreybirdwell_accordion.jpg</image:loc>
-    </image:image>
-    <image:image>
-    <image:image>
-      <image:loc>https://aubreybirdwell.github.io/aubreybirdwell_mark.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://aubreybirdwell.github.io/aubreybirdwell_accordion_mark.jpg</image:loc>
-    </image:image>
   </url>
+  
+  <image:image>
+    <image:loc>https://aubreybirdwell.github.io/aubreybirdwell_grass.jpg</image:loc>
+  </image:image>
+  <image:image>
+    <image:loc>https://aubreybirdwell.github.io/aubreybirdwell_accordion.jpg</image:loc>
+  </image:image>
+  <image:image>
+    <image:loc>https://aubreybirdwell.github.io/aubreybirdwell_mark.jpg</image:loc>
+  </image:image>
+  <image:image>
+    <image:loc>https://aubreybirdwell.github.io/aubreybirdwell_accordion_mark.jpg</image:loc>
+  </image:image>
+  
   <url>
     <loc>https://aubreybirdwell.github.io/aubrey_birdwell_full_cv.html</loc>
   </url>
+
 </urlset>
