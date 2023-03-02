@@ -35,4 +35,5 @@
   narratives; the history and intersection of algorithms and social
   theory.
 
+  [[https://aubreybirdwell.github.io/aubrey_birdwell_full_cv.html][See CV]]
   
