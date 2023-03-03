@@ -28,13 +28,12 @@
   forthcoming paper on using machine learning with cyber security
   educational data which is in peer review presently.
 
-  Outside of his studies, he is actively engaged in his [[https://aubreybirdwell.com][artistic
-  practice]] where he is developing new work. Research interests include
-  designing real-time programming languages and tools for the live
-  performance of computers and cyber-physical systems; applying
-  machine learning and data science for constructing creative
-  narratives; the history and intersection of algorithms and social
-  theory.
+  He is also actively engaged in his [[https://aubreybirdwell.com][artistic practice]] where he is
+  developing new work. Research interests include designing real-time
+  programming languages and tools for the live performance of
+  computers and cyber-physical systems; applying machine learning and
+  data science for constructing creative narratives; the history and
+  intersection of algorithms and social theory.
   
 * CV
 
