@@ -1,17 +1,2 @@
-User-agent: AdsBot-Google
-Disallow: /aubrey_birdwell_full_cv.html
-Disallow: /aubrey_birdwell_full_cv.pdf
-
-User-agent: AdsBot-Google-Mobile
-Disallow: /aubrey_birdwell_full_cv.html
-Disallow: /aubrey_birdwell_full_cv.pdf
-
-User-agent: AdsBot-Google-Mobile-Apps
-Disallow: /aubrey_birdwell_full_cv.html
-Disallow: /aubrey_birdwell_full_cv.pdf
-
-User-agent: *
-Disallow: /aubrey_birdwell_full_cv.html
-Disallow: /aubrey_birdwell_full_cv.pdf
 
 sitemap: https://aubreybirdwell.github.io/sitemap.xml
