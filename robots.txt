@@ -14,4 +14,4 @@ User-agent: *
 Disallow: /aubrey_birdwell_full_cv.html
 Disallow: /aubrey_birdwell_full_cv.pdf
 
-sitmap: https://aubreybirdwell.github.io/sitemap.xml
+sitemap: https://aubreybirdwell.github.io/sitemap.xml
