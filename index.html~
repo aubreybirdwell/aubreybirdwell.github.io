@@ -3,13 +3,13 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2023-03-03 Fri 00:46 -->
+<!-- 2023-03-03 Fri 00:43 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Aubrey Birdwell</title>
 <meta name="generator" content="Org mode" />
 <meta name="author" content="Aubrey Birdwell" />
-<meta name="description" content="Aubrey Birdwell is a computer science researcher, artist, and fabricator based in Seattle, WA. He is currently working on post Bachelor's research projects at The Evergreen State College where he has completed the course work for a Bachelor's of Arts and Sciences dual degree with emphases in computer science and mathematics."
+<meta name="description" content="Aubrey Birdwell is a Seattle-based researcher, artist, and fabricator."
  />
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
@@ -222,8 +222,8 @@
 <div id="content">
 <h1 class="title">Aubrey Birdwell</h1>
 
-<div id="outline-container-org296b19d" class="outline-2">
-<h2 id="org296b19d"><span class="section-number-2">1.</span> CV</h2>
+<div id="outline-container-org16b2316" class="outline-2">
+<h2 id="org16b2316"><span class="section-number-2">1.</span> CV</h2>
 <div class="outline-text-2" id="text-1">
 <p>
 <a href="https://aubreybirdwell.github.io/aubrey_birdwell_full_cv.html">View CV &lt;----</a>
@@ -231,8 +231,8 @@
 </div>
 </div>
 
-<div id="outline-container-orgbe59a91" class="outline-2">
-<h2 id="orgbe59a91"><span class="section-number-2">2.</span> Introduction:</h2>
+<div id="outline-container-orga07e1fc" class="outline-2">
+<h2 id="orga07e1fc"><span class="section-number-2">2.</span> Introduction:</h2>
 <div class="outline-text-2" id="text-2">
 <img src="aubreybirdwell_whiteroom.jpg" alt="aubrey birdwell, computer scientist, researcher, artist, and fabricator in Seattle, WA">
 
@@ -273,7 +273,7 @@ intersection of algorithms and social theory.
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Aubrey Birdwell</p>
-<p class="date">Created: 2023-03-03 Fri 00:46</p>
+<p class="date">Created: 2023-03-03 Fri 00:43</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
