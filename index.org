@@ -4,8 +4,6 @@
 #+options: toc:nil
 #+description: Aubrey Birdwell is a computer science researcher, artist, and fabricator based in Seattle, WA. He is currently working on post Bachelor's research projects at The Evergreen State College where he has completed the course work for a Bachelor's of Arts and Sciences dual degree with emphases in computer science and mathematics.
 
-
-* Introduction:
   
 #+BEGIN_EXPORT html  
 
