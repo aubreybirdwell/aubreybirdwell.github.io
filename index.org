@@ -14,30 +14,19 @@
   #+END_EXPORT
   
   [[https://aubreybirdwell.com][Aubrey Birdwell]] is a computer science researcher, artist, and
-  fabricator in the Seattle area. He is currently working on post
-  bachelor's research projects at The Evergreen State college where he
-  has completed the course work for a Bachelor's of Arts and Sciences
-  dual degree with emphases in computer science and mathematics. His
-  course work in computer science has centered around programming
-  language theory, functional programming, and algorithms. His
-  coursework in mathematics included a year of discrete math, a year
-  of abstract algebra, and a year of graph theory.
+  fabricator in the Seattle area, currently persuing a Master's in
+  Computer Science at Georgia Tech (2024), specilizing in
+  Computational Perception and Robotics. His current research employs
+  machine learning and ai methods to enhance cybersecurity
+  education. Aubrey holds a dual Bachelor's of Arts and Sciences
+  (2023), with emphases in computer science and mathematics.
 
-  During his bachelor's studies, he has been involved in multiple
-  areas of research including cyber security and computer science
-  education, where he designed custom visualization techniques for
-  students log data, and used data science and machine learning
-  methods for evaluating students data; and in software provability
-  and verification where he has worked on developing semantic models
-  of a [[https://sel4.systems/Foundation/Summit/2022/abstracts2022#a-Network-stack-implementation][network stack for the SEL4 kernel]]. He has coauthored a
-  forthcoming paper on using machine learning with cyber security
-  educational data which is in peer review presently.
+  Aubrey's technical interests span programming language design,
+  domain specific languages and functional programming, programming
+  language theory, algorithms, and real-time programming languages and
+  tools for the live performance of computers and cyber-physical
+  systems. He is passionate about the intersection of technology and
+  the arts.
 
-  He is also actively engaged in his [[https://aubreybirdwell.com][artistic practice]] where he is
-  developing new work. Research interests include designing real-time
-  programming languages and tools for the live performance of
-  computers and cyber-physical systems; applying machine learning and
-  data science for constructing creative narratives; the history and
-  intersection of algorithms and social theory.
-  
-  [[https://github.com/aubreybirdwell][Veiw github (nothing public atm) <----]]
+  He actively develops new work and shares his explorations on is
+  [[https://aubreybirdwell.com][artist website]].
