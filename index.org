@@ -30,5 +30,12 @@
   systems. He is passionate about the intersection of technology and
   the arts.
 
-  He actively develops new work and shares his explorations on his
-  [[https://aubreybirdwell.com][artist website]].
+  In the realm of fabrication, Aubrey crafts both small and
+  large-scale objects that range from specialized enclosures and
+  products to architectural details, blending technical precision with
+  aesthetic design. He currently consults, engages in design
+  engineering, and builds work for commercial clients as well as
+  notable artists including Gary Hill.
+
+  He actively develops his own new artwork and curratorial projects,
+  sharing his explorations on his [[https://aubreybirdwell.com][artist website]].
