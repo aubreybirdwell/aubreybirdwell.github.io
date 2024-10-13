@@ -44,7 +44,7 @@
 
   Links to select research papers:
   
-  - [[https://arxiv.org/abs/2408.08531][Detecting Unsuccessful Students in Cybersecurity Exercises]]
+  - [[https://arxiv.org/pdf/2408.08531][Detecting Unsuccessful Students in Cybersecurity Exercises]]
 
 #+BEGIN_SRC
 @inproceedings{Svabensky2024detecting,
