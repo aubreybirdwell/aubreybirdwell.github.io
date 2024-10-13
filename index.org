@@ -1,8 +1,7 @@
-#+title: Aubrey Birdwell
 #+author: Aubrey Birdwell
 #+options: num:nil
 #+options: toc:nil
-#+description: Aubrey Birdwell is a computer science researcher, artist, and fabricator based in Seattle, WA. He is currently working on post Bachelor's research projects at The Evergreen State College where he has completed the course work for a Bachelor's of Arts and Sciences dual degree with emphases in computer science and mathematics.
+#+description: Aubrey Birdwell is a computer science researcher, artist, and fabricator based in Seattle, WA.
 
   
 #+BEGIN_EXPORT html  
@@ -10,30 +9,69 @@
 <img src="aubreybirdwell_whiteroom.jpg" alt="Aubrey Birdwell, computer scientist, researcher, artist, and fabricator in Seattle, WA">
 
   #+END_EXPORT
-  
+
   [[https://aubreybirdwell.com][Aubrey Birdwell]] is a computer science researcher, artist, and
-  fabricator in the Seattle area, currently pursuing a Master's in
-  Computer Science at Georgia Tech (2024), specializing in
-  Computational Perception and Robotics. His current research employs
-  machine learning and AI methods to enhance cybersecurity
-  education. Aubrey earned a dual Bachelor's degree in Arts and
-  Sciences (2023), with emphases in computer science and mathematics,
-  specializing in abstract mathematics and its applications in
-  computer science and programming languages.
+  fabricator based in Seattle. He is currently pursuing a Master’s in
+  Computer Science at Georgia Tech, with an expected graduation date
+  of May 5, 2025.
 
-  Aubrey's technical interests span programming language design,
-  domain specific languages and functional programming, programming
-  language theory, algorithms, and real-time programming languages and
-  tools for the live performance of computers and cyber-physical
-  systems. He is passionate about the intersection of technology and
-  the arts.
+  Aubrey holds a dual Bachelor's degree in Arts and Sciences (2023),
+  with concentrations in computer science and mathematics, focusing on
+  programming language theory, functional programming, machine learning,
+  and mathematics.
 
-  In the realm of fabrication, Aubrey crafts both small and
-  large-scale objects that range from specialized enclosures and
-  products to architectural details, blending technical precision with
-  aesthetic design. He currently consults, engages in design
-  engineering, and builds work for commercial clients as well as
-  notable artists including Gary Hill.
+  His current research leverages AI and machine learning to enhance
+  cybersecurity education, specifically aiming to improve interactions
+  between instructors and students within a cybersecurity education
+  platform.
 
-  He actively develops his own new artwork and curratorial projects,
-  sharing his explorations on his [[https://aubreybirdwell.com][artist website]].
+  In fabrication, Aubrey creates both small and large-scale works, from
+  specialized electronics enclosures and industrial products to
+  architectural details, integrating technical precision with aesthetic
+  design. He consults, engages in industrial design, and builds work for
+  commercial clients and notable artists, including Gary Hill.
+
+  He actively develops new artworks and curatorial projects, sharing
+  his explorations on his [[https://aubreybirdwell.com][artist website]].
+
+  I am particularly interested in blending computer science with art
+  and music, such as through live coding languages and tools for
+  tele-collaboration, to explore new forms of creative
+  expression. While my recent work has involved AI tools for
+  education, I am keen to expand into projects that merge technical
+  innovation with artistic practice, fostering creative research at
+  the intersection of technology and the humanities.
+
+  Links to select research papers:
+  
+  - [[https://arxiv.org/abs/2408.08531][Detecting Unsuccessful Students in Cybersecurity Exercises]]
+
+#+BEGIN_SRC
+@inproceedings{Svabensky2024detecting,
+    author    = {\v{S}v\'{a}bensk\'{y}, Valdemar and Tk\'{a}\v{c}ik, Kristi\'{a}n and Birdwell, Aubrey and Weiss, Richard and Baker, Ryan S. and \v{C}eleda, Pavel and Vykopal, Jan and Mache, Jens and Chattopadhyay, Ankur},
+    title     = {{Detecting Unsuccessful Students in Cybersecurity Exercises in Two Different Learning Environments}},
+    booktitle = {Proceedings of the 54th Frontiers in Education Conference},
+    series    = {FIE '24},
+    publisher = {IEEE},
+    address   = {New York, NY, USA},
+    year      = {2024},
+    numpages  = {9},
+}
+#+END_SRC
+
+  - [[https://peer.asee.org/board-289-from-logs-to-learning-applying-machine-learning-to-instructor-intervention-in-cybersecurity-exercises.pdf][Board 289: From Logs to Learning: Applying Machine Learning to Instructor Intervention in Cybersecurity Exercises]]
+
+#+BEGIN_SRC
+@inproceedings{Birdwell2024logs,
+    author    = {Birdwell, Aubrey Nicholas and Cook, Jack and Weiss, Richard S. and Mache, Jens},
+    title     = {{Board 289: From Logs to Learning: Applying Machine Learning to Instructor Intervention in Cybersecurity Exercises}},
+    booktitle = {Proceedings of the 2024 ASEE Annual Conference \& Exposition},
+    series    = {ASEE '24},
+    publisher = {ASEE Conferences},
+    address   = {Portland, OR, USA},
+    year      = {2024},
+    month     = {June},
+    note      = {https://peer.asee.org/46864},
+    number    = {10.18260/1-2--46864}
+}
+#+END_SRC
