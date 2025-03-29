@@ -1,4 +1,5 @@
 #+author: Aubrey Birdwell
+#+title: index
 #+options: num:nil
 #+options: toc:nil
 #+description: Aubrey Birdwell is a computer science researcher, artist, and fabricator based in Seattle, WA.
@@ -11,36 +12,32 @@
   #+END_EXPORT
 
   [[https://aubreybirdwell.com][Aubrey Birdwell]] is a computer science researcher, artist, and
-  fabricator based in Seattle. He is currently pursuing a Master’s in
-  Computer Science at Georgia Tech, with an expected graduation date
-  of May 5, 2025.
+  fabricator based in Seattle. He is currently preparing to graduate
+  with a Master’s in Computer Science from Georgia Tech, with an
+  expected graduation date of May 5, 2025. His focus has been AI
+  (Interactive Intelligence).
 
-  Aubrey holds a dual Bachelor's degree in Arts and Sciences (2023),
-  with concentrations in computer science and mathematics, focusing on
-  programming language theory, functional programming, machine learning,
-  and mathematics.
+  He holds a dual Bachelor of Arts and Bechelor of Science (2023),
+  with concentrations in computer science and mathematics, and
+  significant coursework in programming language theory, functional
+  programming, machine learning, and mathematics.
 
   His current research leverages AI and machine learning to enhance
   cybersecurity education, specifically aiming to improve interactions
   between instructors and students within a cybersecurity education
   platform.
 
-  In fabrication, Aubrey creates both small and large-scale works, from
-  specialized electronics enclosures and industrial products to
-  architectural details, integrating technical precision with aesthetic
-  design. He consults, engages in industrial design, and builds work for
-  commercial clients and notable artists, including Gary Hill.
+  In fabrication, Aubrey creates both small and large-scale works,
+  from specialized electronics enclosures and industrial products to
+  architectural details, often integrating technical precision with
+  aesthetic design. He consults, engages in industrial design, and
+  builds work for commercial clients as well as notable artists,
+  including major tech companies, design firms, and Gary Hill. Many of
+  the projects involve sensitive contexts and are approached with a
+  high degree of professionalism and discretion.
 
   He actively develops new artworks and curatorial projects, sharing
   his explorations on his [[https://aubreybirdwell.com][artist website]].
-
-  I am particularly interested in blending computer science with art
-  and music, such as through live coding languages and tools for
-  tele-collaboration, to explore new forms of creative
-  expression. While my recent work has involved AI tools for
-  education, I am keen to expand into projects that merge technical
-  innovation with artistic practice, fostering creative research at
-  the intersection of technology and the humanities.
 
   Links to select research papers:
   
@@ -56,6 +53,8 @@
     address   = {New York, NY, USA},
     year      = {2024},
     numpages  = {9},
+    url       = {https://doi.org/10.1109/FIE61694.2024.10893135},
+    doi       = {10.1109/FIE61694.2024.10893135},
 }
 #+END_SRC
 
