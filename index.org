@@ -1,5 +1,5 @@
 #+author: Aubrey Birdwell
-#+title: index
+#+title: Aubrey Birdwell: computing research
 #+options: num:nil
 #+options: toc:nil
 #+description: Aubrey Birdwell is a computer science researcher, artist, and fabricator based in Seattle, WA.
