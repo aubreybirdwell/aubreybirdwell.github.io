@@ -3,13 +3,13 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2025-03-29 Sat 00:17 -->
+<!-- 2025-09-06 Sat 04:46 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Aubrey Birdwell: computing research</title>
+<title>Aubrey Birdwell: artist and ai researcher</title>
 <meta name="generator" content="Org mode" />
 <meta name="author" content="Aubrey Birdwell" />
-<meta name="description" content="Aubrey Birdwell is a computer science researcher, artist, and fabricator based in Seattle, WA."
+<meta name="description" content="Aubrey Birdwell is an artist and AI researcher based in Seattle, WA."
  />
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
@@ -42,7 +42,7 @@
   }
   pre.src {
     position: relative;
-    overflow: auto;
+    overflow: visible;
     padding-top: 1.2em;
   }
   pre.src:before {
@@ -54,7 +54,7 @@
     padding: 3px;
     border: 1px solid black;
   }
-  pre.src:hover:before { display: inline; margin-top: 14px;}
+  pre.src:hover:before { display: inline;}
   /* Languages per Org manual */
   pre.src-asymptote:before { content: 'Asymptote'; }
   pre.src-awk:before { content: 'Awk'; }
@@ -163,19 +163,6 @@
   .footdef  { margin-bottom: 1em; }
   .figure { padding: 1em; }
   .figure p { text-align: center; }
-  .equation-container {
-    display: table;
-    text-align: center;
-    width: 100%;
-  }
-  .equation {
-    vertical-align: middle;
-  }
-  .equation-label {
-    display: table-cell;
-    text-align: right;
-    vertical-align: middle;
-  }
   .inlinetask {
     padding: 10px;
     border: 2px solid gray;
@@ -196,70 +183,79 @@
   /*]]>*/-->
 </style>
 <script type="text/javascript">
-// @license magnet:?xt=urn:btih:1f739d935676111cfff4b4693e3816e664797050&amp;dn=gpl-3.0.txt GPL-v3-or-Later
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2019 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
 <!--/*--><![CDATA[/*><!--*/
-     function CodeHighlightOn(elem, id)
-     {
-       var target = document.getElementById(id);
-       if(null != target) {
-         elem.classList.add("code-highlighted");
-         target.classList.add("code-highlighted");
-       }
-     }
-     function CodeHighlightOff(elem, id)
-     {
-       var target = document.getElementById(id);
-       if(null != target) {
-         elem.classList.remove("code-highlighted");
-         target.classList.remove("code-highlighted");
-       }
-     }
-    /*]]>*///-->
-// @license-end
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
 </script>
 </head>
 <body>
 <div id="content">
-<h1 class="title">Aubrey Birdwell: computing research</h1>
+<h1 class="title">Aubrey Birdwell: artist and ai researcher</h1>
 
-<img src="aubreybirdwell_whiteroom.jpg" alt="Aubrey Birdwell, computer scientist, researcher, artist, and fabricator in Seattle, WA">
+<img src="aubreybirdwell_whiteroom.jpg" alt="Aubrey Birdwell, computer scientist, researcher, artist; photo credit Kari Champoux">
 
 <p>
-<a href="https://aubreybirdwell.com">Aubrey Birdwell</a> is a computer science researcher, artist, and
-fabricator based in Seattle. He is currently preparing to graduate
-with a Master’s in Computer Science from Georgia Tech, with an
-expected graduation date of May 5, 2025. His focus has been AI
-(Interactive Intelligence).
+<a href="https://aubreybirdwell.com">Aubrey Birdwell</a> is an artist and researcher whose work bridges
+computation, new media, and critical design. He explores how
+artificial intelligence, perception, and cultural systems intersect,
+drawing from both academic research and studio practice.
 </p>
 
 <p>
-He holds a dual Bachelor of Arts and Bechelor of Science (2023),
-with concentrations in computer science and mathematics, and
-significant coursework in programming language theory, functional
-programming, machine learning, and mathematics.
+He earned an M.S. in Computer Science (2025, Georgia Institute of
+Technology, Interactive Intelligence — AI algorithms) and dual
+B.A./B.S. degrees (2023, The Evergreen State College) with
+concentrations in computer science and mathematics. Areas of study
+include programming language theory, functional programming, machine
+learning, and formal methods.
 </p>
 
 <p>
-His current research leverages AI and machine learning to enhance
-cybersecurity education, specifically aiming to improve interactions
-between instructors and students within a cybersecurity education
-platform.
-</p>
-
-<p>
-In fabrication, Aubrey creates both small and large-scale works,
-from specialized electronics enclosures and industrial products to
-architectural details, often integrating technical precision with
-aesthetic design. He consults, engages in industrial design, and
-builds work for commercial clients and notable artists, including
-major tech companies, design firms, and Gary Hill. Many of the
-projects involve sensitive contexts and are approached with a high
-degree of professionalism and discretion.
-</p>
-
-<p>
-He actively develops new artworks and curatorial projects, sharing
-his explorations on his <a href="https://aubreybirdwell.com">artist website</a>.
+His recent research uses machine learning to improve interactions
+and assessment in cybersecurity education. Alongside this academic
+work, Aubrey develops new media installations and site-responsive
+sculptures, sharing his explorations on his <a href="https://aubreybirdwell.com">artist website</a>.
 </p>
 
 <p>
@@ -306,8 +302,8 @@ Links to select research papers:
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Aubrey Birdwell</p>
-<p class="date">Created: 2025-03-29 Sat 00:17</p>
-<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+<p class="date">Created: 2025-09-06 Sat 04:46</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
 </html>

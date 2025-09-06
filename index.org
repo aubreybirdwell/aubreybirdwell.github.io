@@ -1,43 +1,32 @@
 #+author: Aubrey Birdwell
-#+title: Aubrey Birdwell: computing research
+#+title: Aubrey Birdwell: artist and ai researcher
 #+options: num:nil
 #+options: toc:nil
-#+description: Aubrey Birdwell is a computer science researcher, artist, and fabricator based in Seattle, WA.
+#+description: Aubrey Birdwell is an artist and AI researcher based in Seattle, WA.
 
   
 #+BEGIN_EXPORT html  
 
-<img src="aubreybirdwell_whiteroom.jpg" alt="Aubrey Birdwell, computer scientist, researcher, artist, and fabricator in Seattle, WA">
+<img src="aubreybirdwell_whiteroom.jpg" alt="Aubrey Birdwell, computer scientist, researcher, artist; photo credit Kari Champoux">
 
   #+END_EXPORT
 
-  [[https://aubreybirdwell.com][Aubrey Birdwell]] is a computer science researcher, artist, and
-  fabricator based in Seattle. He is currently preparing to graduate
-  with a Master’s in Computer Science from Georgia Tech, with an
-  expected graduation date of May 5, 2025. His focus has been AI
-  (Interactive Intelligence).
+  [[https://aubreybirdwell.com][Aubrey Birdwell]] is an artist and researcher whose work bridges
+  computation, new media, and critical design. He explores how
+  artificial intelligence, perception, and cultural systems intersect,
+  drawing from both academic research and studio practice.
 
-  He holds a dual Bachelor of Arts and Bechelor of Science (2023),
-  with concentrations in computer science and mathematics, and
-  significant coursework in programming language theory, functional
-  programming, machine learning, and mathematics.
+  He earned an M.S. in Computer Science (2025, Georgia Institute of
+  Technology, Interactive Intelligence — AI algorithms) and dual
+  B.A./B.S. degrees (2023, The Evergreen State College) with
+  concentrations in computer science and mathematics. Areas of study
+  include programming language theory, functional programming, machine
+  learning, and formal methods.
 
-  His current research leverages AI and machine learning to enhance
-  cybersecurity education, specifically aiming to improve interactions
-  between instructors and students within a cybersecurity education
-  platform.
-
-  In fabrication, Aubrey creates both small and large-scale works,
-  from specialized electronics enclosures and industrial products to
-  architectural details, often integrating technical precision with
-  aesthetic design. He consults, engages in industrial design, and
-  builds work for commercial clients and notable artists, including
-  major tech companies, design firms, and Gary Hill. Many of the
-  projects involve sensitive contexts and are approached with a high
-  degree of professionalism and discretion.
-
-  He actively develops new artworks and curatorial projects, sharing
-  his explorations on his [[https://aubreybirdwell.com][artist website]].
+  His recent research uses machine learning to improve interactions
+  and assessment in cybersecurity education. Alongside this academic
+  work, Aubrey develops new media installations and site-responsive
+  sculptures, sharing his explorations on his [[https://aubreybirdwell.com][artist website]].
 
   Links to select research papers:
   
