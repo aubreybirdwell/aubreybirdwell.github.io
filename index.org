@@ -7,7 +7,7 @@
   
 #+BEGIN_EXPORT html  
 
-<img src="aubreybirdwell_whiteroom.jpg" alt="Aubrey Birdwell, computer scientist, researcher, artist; photo credit Kari Champoux">
+<img src="aubreybirdwell_whiteroom.jpg" alt="Aubrey Birdwell, computer scientist, researcher, artist; photo credit Kari Champoux" style="width:300px; height:auto;">
 
   #+END_EXPORT
 
